@@ -33,17 +33,12 @@ curl_setopt($curl_handle,CURLOPT_RETURNTRANSFER,1);
 $buffer = curl_exec($curl_handle);
 curl_close($curl_handle);
 
+
 if (empty($buffer)) {
-	print '<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
-<channel>
-    <title>'.$feed[$ry].'</tile>
-	<description>My feed seems to be down :(</description>
-</channel>
-</rss>'; 
+	//print "Sorry, ".$feed[$ry]." are a bunch of poopy-heads."; 
 	} else { 
 	print $buffer; 
 	}
+
 
 ?>
