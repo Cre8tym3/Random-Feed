@@ -1,0 +1,3 @@
+// Bad feeds
+http://feeds.huffingtonpost.com/huffingtonpost/LatestNews
+http://services.digg.com/2.0/user.getMyNews?type=rss&username=cre8tym3

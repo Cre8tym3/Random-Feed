@@ -1,0 +1,16 @@
+https://www.musc.edu/broadcast/show/as.rss
+http://feeds.feedburner.com/laughingsquid
+http://feeds.boingboing.net/boingboing/iBag
+http://feeds.feedburner.com/good/lbvp
+http://feeds.gawker.com/lifehacker/full
+http://feeds.feedburner.com/TheDigitel
+http://gizmodo.com/top/index.xml
+http://feeds.feedburner.com/behance/vorr
+http://www.treehugger.com/feeds/most-popular.xml
+http://www.salon.com/feed/
+http://feeds.feedburner.com/geeksAreSexyTechnologyNews
+http://www.charlestoncitypaper.com/charleston/Rss.xml
+http://www.google.com/reader/atom/user%2F05482057785106302255%2Flabel%2FThe%20Charlestonian
+http://www.npr.org/rss/rss.php?id=1001
+http://www.popsci.com/rss.xml
+http://feeds.slate.com/slate
