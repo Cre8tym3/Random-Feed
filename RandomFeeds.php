@@ -25,6 +25,7 @@ fclose($file_handle);
 #########################
 $totalfeeds=$i;
 if(!$ry) { $ry=rand(1,$totalfeeds); }
+$ry = $ry-1; // hack to keep ry number in sync with line in feeds text file
 
 $curl_handle=curl_init();
 curl_setopt($curl_handle,CURLOPT_URL, $feed[$ry]);
